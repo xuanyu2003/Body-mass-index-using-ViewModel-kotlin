@@ -1,4 +1,5 @@
-package fi.oamk.bodymassindexusingviewmodel
+package fi.oamk.bodymassindexusingviewmodel.ViewModel
+
 
 
 import androidx.lifecycle.ViewModel
