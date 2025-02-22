@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Preview() {
     BodyMassIndexUsingViewModelTheme {
-        // Use Modifier without innerPadding for preview
-        BmiCalculatorScreen(modifier = Modifier.padding(16.dp))  // Add a padding value for the preview
+
+        BmiCalculatorScreen(modifier = Modifier.padding(16.dp))
     }
 }}
